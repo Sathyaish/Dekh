@@ -4,7 +4,7 @@ In short, this is a bare-bones re-write of the [Jasmine](https://jasmine.github.
 
 First, I'll write it as I think it should be, and then I'll compare notes, i.e. then I'll look at how *they* wrote it.
 
-### I still didn't understand a word you said. Say it again nicely.
+### No idea what you're talking. Explain it nicely.
 [Jasmine](https://jasmine.github.io/) is a unit-testing framework for testing your JavaScript applications. It must have been written in JavaScript (or one of its variants -- Babel, CoffeeScript, TypeScript) I imagine but I haven't looked. Who cares, anyway?
 
 Look, it so happened that I just saw the [Jasmine](https://jasmine.github.io/) API. .
