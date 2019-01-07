@@ -15,6 +15,15 @@ So, I am writing a completely redundant unit-testing framework that looks exactl
 
 It's a bare bones clone -- clone as in an attempt to write it again from sratch, and not as in a `git clone`.
 
+Right now, I am just going to write the following functions:
+1. `describe`
+2. `it`
+3. `expect`
+4. `toBe`
+5. `not` [`.toBe`, etc.] (read-only property getter)
+6. `toThrow`
+7. support of async execution of tests
+
 I'll keep adding more API as I discover their own API more.
 
 I've also written basic manual unit test suite for testing JavaScript and I'll re-write that too to modularize that into `test fixtures` and `test methods` with a `setup` and `teardown` for each `test` and also for the entire `suite / fixture`, but first let me write this.
