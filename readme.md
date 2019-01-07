@@ -1,6 +1,6 @@
 #### What's this?
 
-In short, this is a bare-bones re-write of the Jasmine framework that I am writing just for fun. I am writing it without looking at the Jasmine source.
+In short, this is a bare-bones re-write of the [Jasmine](https://jasmine.github.io/) framework that I am writing just for fun. I am writing it without looking at the Jasmine source.
 
 First, I'll write it as I think it should be, and then I'll compare notes, i.e. then I'll look at how *they* wrote it.
 
